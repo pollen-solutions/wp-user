@@ -17,14 +17,8 @@
       "email": "jordy@presstify.com"
     }
   ],
-  "repositories": [
-    {
-      "type": "composer",
-      "url": "https://composer.presstify.com/pollen-solutions/"
-    }
-  ],
   "require": {
-    "php": "^7.4 || ^8.O",
+    "php": "^7.4 || ^8.0",
     "pollen-solutions/support": "^1.0"
   },
   "require-dev": {
